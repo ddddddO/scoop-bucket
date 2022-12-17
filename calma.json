@@ -1,0 +1,22 @@
+{
+    "version": "1.2.8",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ddddddO/calma/releases/download/v1.2.8/calma_windows_i386.zip",
+            "bin": [
+                "calma.exe"
+            ],
+            "hash": "98a69d9c7b11719ff9bbaa62b13f671714f3e7198056bb969c4c3eac7aa8fdb8"
+        },
+        "64bit": {
+            "url": "https://github.com/ddddddO/calma/releases/download/v1.2.8/calma_windows_x86_64.zip",
+            "bin": [
+                "calma.exe"
+            ],
+            "hash": "57d066979a6d0a9ae56c2aefb3a7ce1c3699dca9fd5a8258444c225a38ec78f3"
+        }
+    },
+    "homepage": "https://github.com/ddddddO/calma",
+    "license": "BSD-2-Clause",
+    "description": "♻Calendar for Markdown♻ ...only for Japan!🎌"
+}
