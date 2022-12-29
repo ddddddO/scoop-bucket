@@ -1,0 +1,22 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ddddddO/kaisekisan/releases/download/v0.0.3/kaisekisan_windows_i386.zip",
+            "bin": [
+                "kaisekisan.exe"
+            ],
+            "hash": "69e13d3750fd736018d979362b3ff1abe58f42c65fe68d85115d873ea89ac380"
+        },
+        "64bit": {
+            "url": "https://github.com/ddddddO/kaisekisan/releases/download/v0.0.3/kaisekisan_windows_x86_64.zip",
+            "bin": [
+                "kaisekisan.exe"
+            ],
+            "hash": "1d477048df9be0d8854dde14c44cbbbd260090095261f6d144a6942c16b6b5bb"
+        }
+    },
+    "homepage": "https://github.com/ddddddO/kaisekisan",
+    "license": "BSD-2-Clause",
+    "description": "Kaisekisan"
+}
