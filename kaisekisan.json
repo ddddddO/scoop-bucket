@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ddddddO/kaisekisan/releases/download/v0.1.1/kaisekisan_windows_i386.zip",
+            "url": "https://github.com/ddddddO/kaisekisan/releases/download/v0.1.2/kaisekisan_windows_i386.zip",
             "bin": [
                 "kaisekisan.exe"
             ],
-            "hash": "d1d15dd0c96b4b34846515205683e06641d6412a085d37803a018dfb17c06725"
+            "hash": "2c2606b2f69a5ca5f640ead735d843f790d526f712f731e6c8b3d6c9394694b5"
         },
         "64bit": {
-            "url": "https://github.com/ddddddO/kaisekisan/releases/download/v0.1.1/kaisekisan_windows_x86_64.zip",
+            "url": "https://github.com/ddddddO/kaisekisan/releases/download/v0.1.2/kaisekisan_windows_x86_64.zip",
             "bin": [
                 "kaisekisan.exe"
             ],
-            "hash": "e00701a073a7320362a8983deb792251e1f23567fffb345283eff6195b5a92f8"
+            "hash": "647e860aad641374c68d24befd4e0f07f9bf535cfed871bc314da2169af0f0fb"
         }
     },
     "homepage": "https://github.com/ddddddO/kaisekisan",
