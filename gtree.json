@@ -1,19 +1,19 @@
 {
-    "version": "1.7.29",
+    "version": "1.7.30",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ddddddO/gtree/releases/download/v1.7.29/gtree_windows_i386.zip",
+            "url": "https://github.com/ddddddO/gtree/releases/download/v1.7.30/gtree_windows_i386.zip",
             "bin": [
                 "gtree.exe"
             ],
-            "hash": "f8863439b299d9a5f30807d16ebc481cabd53e5cd616b9999c8f1220c6f53b51"
+            "hash": "fb2862695b87600d165bfb5beed08d3da31bce95314e7b268c114ac771281cfc"
         },
         "64bit": {
-            "url": "https://github.com/ddddddO/gtree/releases/download/v1.7.29/gtree_windows_x86_64.zip",
+            "url": "https://github.com/ddddddO/gtree/releases/download/v1.7.30/gtree_windows_x86_64.zip",
             "bin": [
                 "gtree.exe"
             ],
-            "hash": "70911563b0072184d6cad3b4e3595737f795c973fe8e12ffe1f7156853d494e9"
+            "hash": "c9abb5fcbde4f258959887ce5d49e02064091ce9d837141bdf33ed8bdac266c2"
         }
     },
     "homepage": "https://github.com/ddddddO/gtree",
