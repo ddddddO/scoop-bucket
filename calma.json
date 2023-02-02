@@ -1,19 +1,19 @@
 {
-    "version": "1.2.9",
+    "version": "1.2.10",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ddddddO/calma/releases/download/v1.2.9/calma_windows_i386.zip",
+            "url": "https://github.com/ddddddO/calma/releases/download/v1.2.10/calma_windows_i386.zip",
             "bin": [
                 "calma.exe"
             ],
-            "hash": "3b7f3c66e6e384fbf4b45ba2506c67985f0ab90163aeca6d28d8e129c3c582e5"
+            "hash": "e9afc4d364079069fe25ab5e052cd741f26af6d64b6c1de558bb6c659f14862f"
         },
         "64bit": {
-            "url": "https://github.com/ddddddO/calma/releases/download/v1.2.9/calma_windows_x86_64.zip",
+            "url": "https://github.com/ddddddO/calma/releases/download/v1.2.10/calma_windows_x86_64.zip",
             "bin": [
                 "calma.exe"
             ],
-            "hash": "713d9aadcd6480af73f878322d90be76de0dba96b137984c7bc71a1c44be3028"
+            "hash": "6755116fcd91f3c43fb39ce9b0aeb49615870f0c4648502f85b6f21efdcd9ada"
         }
     },
     "homepage": "https://github.com/ddddddO/calma",
