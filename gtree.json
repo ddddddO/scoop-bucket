@@ -1,26 +1,26 @@
 {
-    "version": "1.11.0",
+    "version": "1.11.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ddddddO/gtree/releases/download/v1.11.0/gtree_Windows_i386.zip",
+            "url": "https://github.com/ddddddO/gtree/releases/download/v1.11.1/gtree_Windows_i386.zip",
             "bin": [
                 "gtree.exe"
             ],
-            "hash": "e3e215600984f1c5f957bba5102ddda0806a130e06b14e6a2c1f0534f6ed0cd0"
+            "hash": "f1bed2416b2c06446ef98b61da931f23a1f8dd71970a668f9da59ae706524f95"
         },
         "64bit": {
-            "url": "https://github.com/ddddddO/gtree/releases/download/v1.11.0/gtree_Windows_x86_64.zip",
+            "url": "https://github.com/ddddddO/gtree/releases/download/v1.11.1/gtree_Windows_x86_64.zip",
             "bin": [
                 "gtree.exe"
             ],
-            "hash": "7898bf535ea07aae635b3de9991f775e8df805c9d0ef05c7de51ff8b00288987"
+            "hash": "e7798517efd9090349c5e8992e5de201c0328aa224f9fdbef542ca628a048b63"
         },
         "arm64": {
-            "url": "https://github.com/ddddddO/gtree/releases/download/v1.11.0/gtree_Windows_arm64.zip",
+            "url": "https://github.com/ddddddO/gtree/releases/download/v1.11.1/gtree_Windows_arm64.zip",
             "bin": [
                 "gtree.exe"
             ],
-            "hash": "674ee224afa7fc4b2563a0640bbe9bd13bcfc93ee3bd1006b4974ca7e6f591de"
+            "hash": "a66130ad42d7197e4ab4ae0e43c0ecaaeaafc1c89d60b70c5010f7c792a9160a"
         }
     },
     "homepage": "https://github.com/ddddddO/gtree",
